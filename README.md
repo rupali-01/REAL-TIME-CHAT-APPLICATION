@@ -21,11 +21,11 @@ Database: SQLite
 PROJECT STRUCTURE
 chat-app/
 │
-├── chat/               # Chat logic (consumers, routing, models)
-├── users/              # User authentication and profile management
-├── chat_app/           # Main Django project settings
-├── templates/          # HTML Templates (if any)
-├── static/             # CSS, JS, etc.
-├── db.sqlite3          # Default SQLite DB (can be changed)
-├── manage.py           # Django CLI entry
-└── requirements.txt    # Project dependencies
+├── chat/              
+├── users/              
+├── chat_app/          
+├── templates/         
+├── static/             
+├── db.sqlite3         
+├── manage.py           
+└── requirements.txt   
